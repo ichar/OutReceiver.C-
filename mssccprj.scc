@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[OutRec_001.csproj]
+SCC_Aux_Path = "\\Filesrv\VSS\IT_VSS"
+SCC_Project_Name = "$/Programmers/voroshilov/Filer/OutReceiver/OutReceiver", SCWFAAAA
+
+[OutRec_001.sln]
+SCC_Aux_Path = "\\Filesrv\VSS\IT_VSS"
+SCC_Project_Name = "$/Programmers/voroshilov/Filer/OutReceiver/OutReceiver", SCWFAAAA
+
+[OutReceiver.csproj]
+SCC_Aux_Path = "\\Filesrv\VSS\IT_VSS"
+SCC_Project_Name = "$/Programmers/voroshilov/Filer/OutReceiver/OutReceiver", SCWFAAAA

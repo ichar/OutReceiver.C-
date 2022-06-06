@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<OutReceiver_Config>
+  <Configs>
+    <Config>
+      <Type>MAPTEST</Type>
+      <Comment>Проверка маппинга и (при необходимости) создание его</Comment>
+      <ReportDir>C:\!Pers2.1\Report\OutRec</ReportDir>
+      <JobSteps>
+        <JobStep>
+          <StepType>CHECKMAP</StepType>
+          <StepComment>Проверить мапирование</StepComment>
+          <Order>001</Order>
+          <Params>
+            <SourceDir>\\aissrv.rosan.local\file_exchange</SourceDir>
+            <MapDir>x:</MapDir>
+            <Login>aisSRV.rosan.local\obmen</Login>
+            <Password>j,vty2013</Password>
+          </Params>
+        </JobStep>
+      </JobSteps>
+      <DBServer>PRG-21\SQLPRG21</DBServer>
+      <DBBase>dbTest</DBBase>
+      <DBUser>user</DBUser>
+      <DBPass>111</DBPass>
+    </Config>
+  </Configs>
+</OutReceiver_Config>

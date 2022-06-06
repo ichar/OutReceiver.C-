@@ -1,0 +1,26 @@
+2016-03-18 10:30:02	OK	Version 2.19 от 2016.03.18 © ЗАО «Розан Файнэнс»
+2016-03-18 10:30:02	OK	Рабочий журнал D:\Projects\apps\OutReceiver\OutReceiver\bin\Release\Log_OutReceiver\20160318_OutReceiver.log
+2016-03-18 10:30:02	OK	Конфигуратор D:\Projects\apps\OutReceiver\SetupFiles\test.xml:
+2016-03-18 10:30:02	OK	+isNoDB
+2016-03-18 10:30:02	OK	+isNoMap
+2016-03-18 10:30:02	OK	SMTP = mail2.rosan.ru:25
+2016-03-18 10:30:02	OK	DBServer = 172.19.11.144
+2016-03-18 10:30:02	OK	DBBase = IOBase
+2016-03-18 10:30:02	OK	DBUser = user
+2016-03-18 10:30:02	OK	DBPass = qwerty_0
+2016-03-18 10:30:02	OK	ReportDir = C:\VYATKA\LOG
+2016-03-18 10:30:02	OK	Alert = I/O RECEIVER ERROR!|Ошибка при выполнении операции инфообмена
+2016-03-18 10:30:02	OK	Emergency = harlamov@rosan.ru|911@rosan.ru|911
+2016-03-18 10:30:02	OK	==> Сценарий CREATE-TEMP:
+2016-03-18 10:30:02	OK	Папка REP-журнала C:\VYATKA\LOG
+2016-03-18 10:30:02	OK	--> Шаг 001.CREATEDIR:
+2016-03-18 10:30:02	OK	InputDir = C:\vyatka\temp-20160318103002
+2016-03-18 10:30:02	OK	Выполнено: C:\vyatka\temp-20160318103002
+2016-03-18 10:30:02	OK	--> Шаг 002.REMOVEDIR:
+2016-03-18 10:30:02	OK	Mode = Simple
+2016-03-18 10:30:02	OK	InputDir = C:\vyatka\temp-20160318103002
+2016-03-18 10:30:02	OK	Выполнено: C:\vyatka\temp-20160318103002
+2016-03-18 10:30:02	OK	Успешно завершен
+
+2016-03-18 10:30:02	OK	Выход
+
